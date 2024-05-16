@@ -15,8 +15,7 @@ readme:
 
 ##### 2.scratch2.py：爬取简略信息
 
-##### 3.merge_file.py：合并详细信息与简略信息，并生成LR.csv
-后续分析主要是基于这个csv文件
+##### 3.merge_file.py：合并详细信息与简略信息，并生成LR.csv，后续分析主要是基于这个csv文件
 
 ##### 4.scratch3.py：爬取文章摘要
 
