@@ -15,9 +15,12 @@ readme:
 
 ##### 2.scratch2.py：爬取简略信息
 
-##### 3.scratch3.py：爬取文章摘要
+##### 3.merge_file.py：合并详细信息与简略信息，并生成LR.csv
+后续分析主要是基于这个csv文件
 
-##### 4.dataanalyse.R：基于R处理数据，绘制云图
+##### 4.scratch3.py：爬取文章摘要
 
-##### 5.dataanalysedo：基于stata分析不同来源期刊、作者、机构的发文情况
+##### 5.dataanalyse.R：基于R处理数据，绘制云图
+
+##### 6.dataanalysedo：基于stata分析不同来源期刊、作者、机构的发文情况
 
